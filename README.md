@@ -20,7 +20,8 @@ This integrated toolchain enhances development speed, ensures code quality, and 
 # ♾️Step 1: Setup Jenkins
 
 1. Name the EC2 instance, choose Amazon Linux 2 AMI, and configure security groups to expose port 8080.
-
+![alt text](amazon-linux.png)
+![alt text](sg.png)
 
 3. Connect to the instance via SSH and install Jenkins using the Red Hat package.
 
