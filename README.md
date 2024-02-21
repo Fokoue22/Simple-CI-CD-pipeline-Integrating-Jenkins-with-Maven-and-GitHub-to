@@ -27,3 +27,13 @@ This integrated toolchain enhances development speed, ensures code quality, and 
 2. Connect to the instance via SSH and Install Jenkins on an Amazon Linux 2 AMI EC2 instance using the [official guide](https://www.jenkins.io/doc/book/installing/linux/) Also follow the steps on my [Github page](https://github.com/Fokoue22/JENKINS-AWS)
 
 ![alt text](install-jenkins.png)
+
+
+
+
+
+
+
+
+## Author
+FOKOUE THOMAS 
